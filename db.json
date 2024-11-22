@@ -25,6 +25,18 @@
       "user": 100
     }
   ],
+  "users": [
+    {
+      "id": 100,
+      "name": "ivan sorano",
+      "email": "isorano@gmail.com"
+    },
+    {
+      "id": 200,
+      "name": "esti ellianti",
+      "email": "edjuwarta@gmail.com"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
