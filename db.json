@@ -1,12 +1,29 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "transactions": [
+    {
+      "id": 1,
+      "title": "starbucks cideng",
+      "value": 45000,
+      "debit": true,
+      "date": "15/11/2024",
+      "user": 100
+    },
+    {
+      "id": 2,
+      "title": "kfc juanda",
+      "value": 35000,
+      "date": "17/11/2024",
+      "debit": true,
+      "user": 100
+    },
+    {
+      "id": 3,
+      "title": "transfer dari nyokap",
+      "value": 500000,
+      "date": "20/11/2024",
+      "debit": false,
+      "user": 100
+    }
   ],
   "profile": {
     "name": "typicode"
