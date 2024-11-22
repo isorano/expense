@@ -16,14 +16,6 @@
       "debit": true,
       "user": 100
     },
-    {
-      "id": 3,
-      "title": "transfer dari nyokap",
-      "value": 500000,
-      "date": "20/11/2024",
-      "debit": false,
-      "user": 100
-    }
   ],
   "profile": {
     "name": "typicode"
