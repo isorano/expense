@@ -1,13 +1,9 @@
 {
-  "transactions": [
+  "posts": [
     {
       "id": 1,
-      "title": "starbucks cideng",
-      "value": 45000,
-      "debit": true,
-      "date": "15/11/2024",
-      "user": 100
-    },
+      "title": "hello"
+    }
   ],
   "profile": {
     "name": "typicode"
